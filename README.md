@@ -1,6 +1,6 @@
-# Quantum_States\n
+# Quantum_States
 
-I'm excited to share one of the most fascinating projects I worked on recently during my journey into the world of Quantum Computing
+'''I'm excited to share one of the most fascinating projects I worked on recently during my journey into the world of Quantum Computing'''
 
 In this project, I built a system to classify quantum states into three key categories:
 
